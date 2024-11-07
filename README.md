@@ -15,13 +15,11 @@ Para instalar o code7runner, adicione o seguinte ao seu arquivo de configuraçã
 
 ``plugins.lua``
 ```lua
-{
-  { "welli7ngton/code7runner",
-    config = funcyion()
-      require('code7runner')
-    end
-  },
-}
+{ "welli7ngton/code7runner",
+  config = funcyion()
+    require('code7runner')
+  end
+},
 ```
 # Uso
 
