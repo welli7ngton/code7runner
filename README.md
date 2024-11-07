@@ -63,3 +63,4 @@ TODO's:
 - Adicionar suporte a mais linguagens.
 - Adicionar suporte dinâmico de linguagens configuradas pelos usuários.
 - Criar função para facilitar mais ainda a criação de uma bind personalizada para o plugin.
+- Melhorar o terminal em que é mostrado o output dos arquivos, para ficar mais natural do editor e parecido com o do vscode.
